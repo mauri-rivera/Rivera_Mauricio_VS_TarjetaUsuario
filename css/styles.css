@@ -63,7 +63,18 @@ h3 {
     margin-right: 1.5vw;
 }
 
+.bloqueInternoDos span {
+    font-size: 1.17em;
+}
+
+.bloqueInternoTres span {
+    font-weight: bold;
+}
+
 .bloqueInternoUno, .bloqueInternoTres, body{
     align-items: center;
+}
+
+.bloqueInternoDos span, .bloqueInternoUno, .bloqueInternoTres, body{
     display: flex;
 }
